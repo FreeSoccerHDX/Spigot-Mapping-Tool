@@ -2,7 +2,7 @@
 A Python-Tool to create a website for visuale Mapping differents<br>
 (Mojang->Obfuscated->Spigot)<br>
 
-The Python(python3)-File will generate a index.html and also the 3 JSON-Files.<br>
+The Python(python3)-File "mappingcreator.py" will generate a index.html and also the 3 JSON-Files.<br>
 A Website of the index.html can be found here:<br>
 [Website](https://timcloud.ddns.net/mapping/)
 
